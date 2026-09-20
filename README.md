@@ -95,9 +95,8 @@ Single dataset (Massachusetts Buildings), single architecture (U-Net/ResNet-34),
 @techreport{clicks2footprints2025,
   title  = {From Clicks to Footprints: Point-Supervised Building Segmentation
             and the Limits of Self-Training},
-  author = {Your Name},
-  year   = {2025},
-  url    = {https://github.com/your-user/your-repo},
-  doi    = {10.5281/zenodo.XXXXXXX}
+  author = {Asghar Qamber Rizvi},
+  year   = {2026},
+  url    = {https://github.com/asghar-rizvi/Point-Supervised-Building-Segmentation-},
 }
 ```
