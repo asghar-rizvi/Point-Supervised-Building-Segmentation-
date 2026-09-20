@@ -1,5 +1,7 @@
 # From Clicks to Footprints
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22861901.svg)](https://doi.org/10.5281/zenodo.22861901)
 
+Official implementation and technical report for point-supervised building footprint extraction on the Massachusetts Buildings Dataset.
 ### Point-Supervised Building Segmentation and the Limits of Self-Training — A Pilot Study
 
 ![Qualitative results](images/final.png)
